@@ -20,7 +20,7 @@ EN Ver: Em breve.
 
 
 # Como baixar
-## teste
+- teste
 
 # Exploração
-## teste
+- teste
