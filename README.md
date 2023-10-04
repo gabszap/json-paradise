@@ -49,14 +49,17 @@ EN Ver: Em breve.
 
 | Data da adição    | Img                                             | Nome               | Mundo                 | Author  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 03/10/2023 | ![Anemoculus](imagens/icon-oculis/Anemoculus.png)     | [Anemoculus]()        |Teyvat                 | gabszap |
-| 03/10/2023 | ![Geoculus](imagens/icon-oculis/Geoculus.png)         | [Geoculos]()          |Teyvat                 | gabszap |
-| 03/10/2023 | ![Electroculus](imagens/icon-oculis/Electroculus.png) | [Electroculus]()      |Tevyat                 | gabszap |
-| 03/10/2023 | ![Dendroculus](imagens/icon-oculis/Dendroculus.png)   | [Dendroculus]()       |Tevyat                 | gabszap |
-| 03/10/2023 | ![Hydroculus](imagens/icon-oculis/Hydroculus.png)     | [Hydroculus]()        |Tevyat                 | gabszap | 
+| 03/10/2023 | ![Anemoculus](imagens/icon-oculis/Anemoculus.png)     |[Anemoculus]()        |Teyvat                 | gabszap |
+| 03/10/2023 | ![Geoculus](imagens/icon-oculis/Geoculus.png)         |[Geoculos]()          |Teyvat                 | gabszap |
+| 03/10/2023 | ![Electroculus](imagens/icon-oculis/Electroculus.png) |[Electroculus]()      |Tevyat                 | gabszap |
+| 03/10/2023 | ![Dendroculus](imagens/icon-oculis/Dendroculus.png)   |[Dendroculus]()       |Tevyat                 | gabszap |
+| 03/10/2023 | ![Hydroculus](imagens/icon-oculis/Hydroculus.png)     |[Hydroculus]()        |Tevyat                 | gabszap | 
 | 03/10/2023 | ![Carmesim](imagens/icon-oculis/CrimsonAgate.png)     |[Calcedônia Carmesim]() |Tevyat                | gabszap |
-| 03/10/2023 | ![Selo](imagens/icon-oculis/SacredSeal.png)          |[Selo Sagrado]()       |Tevyat                  | gabszap |
+| 03/10/2023 | ![Lumenspar](imagens/icon-oculis/Lumenspar.png)       |[Espato Lúmen]()      |Despenhadeiro: subterrâneo | gabszap
+| 03/10/2023 | ![LumensparOre](imagens/icon-oculis/Lumenspar.png)    |[Minério Lúmen]()[^1] |Despenhadeiro: subterrâneo
+| 03/10/2023 | ![Selo](imagens/icon-oculis/SacredSeal.png)           |[Selo Sagrado]()       |Tevyat                  | gabszap |
 
 
 
 
+[^1]: Minério Lúmen é usado para upar o nivel da lanterna 
