@@ -43,6 +43,12 @@ EN Ver: Em breve.
 
 # Oculis
 
-| Data da adição    | Img                       | Name/ID               | World                 | Author  |
+| Data da adição    | Img                                             | Nome               | Mundo                 | Author  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 03/10/2023 | [Anemoculus]     | [AnemOculus]()                        | Teyvat                | gabszap    |
+| 03/10/2023 | ![Anemoculus](imagens/icon-oculis/Anemoculus.png)     | [Anemoculus]()        |Teyvat                 | gabszap |
+| 03/10/2023 | ![Geoculus](imagens/icon-oculis/Geoculus.png)         | [Geoculos]()          |Tevat                  | gabszap |
+| 03/10/2023 | ![Electroculus](imagens/icon-oculis/Electroculus.png) | [Electroculus]()      |Tevyat                 | gabszap |
+
+
+
+
