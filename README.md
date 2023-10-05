@@ -51,16 +51,16 @@ EN Ver: Em breve.
 
 | Data da adição    | Icon                                             | Nome               | Região                 | Author  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 03/10/2023 | ![Anemoculus](imagens/icon-oculis/Anemoculus.png)     |[Anemoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Anemoculus.rar)        |Mondstadt               | Gabszap |
-| 03/10/2023 | ![Geoculus](imagens/icon-oculis/Geoculus.png)         |[Geoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Geoculus.rar)          |Liyue                   | Gabszap |
-| 03/10/2023 | ![Electroculus](imagens/icon-oculis/Electroculus.png) |[Electroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Electroculus.rar)      |Inazuma                 | Gabszap |
-| 03/10/2023 | ![Dendroculus](imagens/icon-oculis/Dendroculus.png)   |[Dendroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Dendroculus.rar)       |Sumeru                  | Gabszap |
-| 03/10/2023 | ![Hydroculus](imagens/icon-oculis/Hydroculus.png)     |[Hydroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Hydroculus.rar)        |Fontaine                | Gabszap | 
-| 03/10/2023 | ![Carmesim](imagens/icon-oculis/CrimsonAgate.png)     |[Calcedônia Carmesim](https://github.com/Gabriel4927/json-paradise/blob/main/download/CalcedoniaCarmesim.rar) |Espinha do dragão     | Gabszap |
-| 03/10/2023 | ![Lumenspar](imagens/icon-oculis/Lumenspar.png)       |[Espato Lúmen](https://github.com/Gabriel4927/json-paradise/raw/main/download/EspatoLumen.rar)      |Despenhadeiro: subterrâneo | Gabszap |
-| 03/10/2023 | ![LumensparOre](imagens/icon-oculis/Lumenspar.png)    |[Minério Lúmen](https://github.com/Gabriel4927/json-paradise/raw/main/download/MinerioLumen.rar)[^1] |Despenhadeiro: subterrâneo | Gabszap |
-| 03/10/2023 | ![Chave](imagens/icon-oculis/KeySigil.png)            |[Padrões de chave](https://github.com/Gabriel4927/json-paradise/raw/main/download/Padr%C3%B5es%20de%20chave.rar)[^2] | Enkanomiya             | Gabszap |
-| 03/10/2023 | ![Selo](imagens/icon-oculis/SacredSeal.png)           |[Selo Sagrado](https://github.com/Gabriel4927/json-paradise/raw/main/download/Selo%20Sagrado.rar)      |Sumeru: Deserto            | Gabszap |
+| 03/10/2023 | ![Anemoculus](icons/icon-oculis/Anemoculus.png)     |[Anemoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Anemoculus.rar)        |Mondstadt               | Gabszap |
+| 03/10/2023 | ![Geoculus](icons/icon-oculis/Geoculus.png)         |[Geoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Geoculus.rar)          |Liyue                   | Gabszap |
+| 03/10/2023 | ![Electroculus](icons/icon-oculis/Electroculus.png) |[Electroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Electroculus.rar)      |Inazuma                 | Gabszap |
+| 03/10/2023 | ![Dendroculus](icons/icon-oculis/Dendroculus.png)   |[Dendroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Dendroculus.rar)       |Sumeru                  | Gabszap |
+| 03/10/2023 | ![Hydroculus](icons/icon-oculis/Hydroculus.png)     |[Hydroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Hydroculus.rar)        |Fontaine                | Gabszap | 
+| 03/10/2023 | ![Carmesim](icons/icon-oculis/CrimsonAgate.png)     |[Calcedônia Carmesim](https://github.com/Gabriel4927/json-paradise/blob/main/download/CalcedoniaCarmesim.rar) |Espinha do dragão     | Gabszap |
+| 03/10/2023 | ![Lumenspar](icons/icon-oculis/Lumenspar.png)       |[Espato Lúmen](https://github.com/Gabriel4927/json-paradise/raw/main/download/EspatoLumen.rar)      |Despenhadeiro: subterrâneo | Gabszap |
+| 03/10/2023 | ![LumensparOre](icons/icon-oculis/Lumenspar.png)    |[Minério Lúmen](https://github.com/Gabriel4927/json-paradise/raw/main/download/MinerioLumen.rar)[^1] |Despenhadeiro: subterrâneo | Gabszap |
+| 03/10/2023 | ![Chave](icons/icon-oculis/KeySigil.png)            |[Padrões de chave](https://github.com/Gabriel4927/json-paradise/raw/main/download/Padr%C3%B5es%20de%20chave.rar)[^2] | Enkanomiya             | Gabszap |
+| 03/10/2023 | ![Selo](icons/icon-oculis/SacredSeal.png)           |[Selo Sagrado](https://github.com/Gabriel4927/json-paradise/raw/main/download/Selo%20Sagrado.rar)      |Sumeru: Deserto            | Gabszap |
 
 [^1]: Minério Lúmen é usado para upar o nivel da lanterna.
 [^2]: Já ter feito todas as missões de enkanomiya antes de ir atras dos padrões de chave. Onde usar os padrões de chave: https://youtu.be/_ES5BTwIp_M?si=IapwxOCtptDzCO-A
