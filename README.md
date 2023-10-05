@@ -45,7 +45,7 @@ EN Ver: Em breve.
 >
 > Atualmente há 150 hydroculos no mapa (Genshin 4.1)
 >
-> (Por favor ja ter terminado todas as quests da espinha antes) Há 79 calcedônias para pegar no mundo, o resto tem que ser pego no "desejo carmesim" upando a arvore da espinha do dragão
+> (Por favor ja ter terminado todas as quests da espinha antes) Há 77 calcedônias para pegar no mundo, o resto tem que ser pego no "desejo carmesim" upando a arvore da espinha do dragão
 > 
 > Há informações extras nos numeros pequenos do lado do nome do item.
 
