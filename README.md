@@ -42,24 +42,27 @@ EN Ver: Em breve.
 > Items de exploração, são downloads diretos apenas clique no nome em azul e extraia em seu pc.
 
 # Oculis
-> NOTA:
+> NOTAS:
+>
 > Atualmente há 150 hydroculos no mapa (Genshin 4.1)
 >
 > (Por favor ja ter terminado todas as quests da espinha antes) Há 79 calcedônias para pegar no mundo, o resto tem que ser pego no "desejo carmesim" upando a arvore da espinha do dragão
 
-| Data da adição    | Img                                             | Nome               | Mundo                 | Author  |
+| Data da adição    | Img                                             | Nome               | Mundo/Região                 | Author  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 03/10/2023 | ![Anemoculus](imagens/icon-oculis/Anemoculus.png)     |[Anemoculus]()        |Teyvat                 | gabszap |
-| 03/10/2023 | ![Geoculus](imagens/icon-oculis/Geoculus.png)         |[Geoculos]()          |Teyvat                 | gabszap |
-| 03/10/2023 | ![Electroculus](imagens/icon-oculis/Electroculus.png) |[Electroculus]()      |Tevyat                 | gabszap |
-| 03/10/2023 | ![Dendroculus](imagens/icon-oculis/Dendroculus.png)   |[Dendroculus]()       |Tevyat                 | gabszap |
-| 03/10/2023 | ![Hydroculus](imagens/icon-oculis/Hydroculus.png)     |[Hydroculus]()        |Tevyat                 | gabszap | 
-| 03/10/2023 | ![Carmesim](imagens/icon-oculis/CrimsonAgate.png)     |[Calcedônia Carmesim]() |Tevyat                | gabszap |
-| 03/10/2023 | ![Lumenspar](imagens/icon-oculis/Lumenspar.png)       |[Espato Lúmen]()      |Despenhadeiro: subterrâneo | gabszap
-| 03/10/2023 | ![LumensparOre](imagens/icon-oculis/Lumenspar.png)    |[Minério Lúmen]()[^1] |Despenhadeiro: subterrâneo
-| 03/10/2023 | ![Selo](imagens/icon-oculis/SacredSeal.png)           |[Selo Sagrado]()       |Tevyat                  | gabszap |
+| 03/10/2023 | ![Anemoculus](imagens/icon-oculis/Anemoculus.png)     |[Anemoculus]()        |Teyvat                 | Gabszap |
+| 03/10/2023 | ![Geoculus](imagens/icon-oculis/Geoculus.png)         |[Geoculos]()          |Teyvat                 | Gabszap |
+| 03/10/2023 | ![Electroculus](imagens/icon-oculis/Electroculus.png) |[Electroculus]()      |Tevyat                 | Gabszap |
+| 03/10/2023 | ![Dendroculus](imagens/icon-oculis/Dendroculus.png)   |[Dendroculus]()       |Tevyat                 | Gabszap |
+| 03/10/2023 | ![Hydroculus](imagens/icon-oculis/Hydroculus.png)     |[Hydroculus]()        |Tevyat                 | Gabszap | 
+| 03/10/2023 | ![Carmesim](imagens/icon-oculis/CrimsonAgate.png)     |[Calcedônia Carmesim]() |Tevyat                | Gabszap |
+| 03/10/2023 | ![Lumenspar](imagens/icon-oculis/Lumenspar.png)       |[Espato Lúmen]()      |Despenhadeiro: subterrâneo | Gabszap
+| 03/10/2023 | ![LumensparOre](imagens/icon-oculis/Lumenspar.png)    |[Minério Lúmen]()[^1] |Despenhadeiro: subterrâneo | Gabszap
+| 03/10/2023 | ![Chave](imagens/icon-oculis/KeySigil.png)            |[Sigilo de Chave]()[^2] | Enkanomiya | Gabszap
+| 03/10/2023 | ![Selo](imagens/icon-oculis/SacredSeal.png)           |[Selo Sagrado]()      |Tevyat                  | Gabszap |
 
 
 
 
-[^1]: Minério Lúmen é usado para upar o nivel da lanterna 
+[^1]: Minério Lúmen é usado para upar o nivel da lanterna
+[^2]: Já ter feito todas as missões de enkanomiya antes de ir atras dos sigilos de chave
