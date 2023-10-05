@@ -52,7 +52,7 @@ EN Ver: Em breve.
 | Data da adição    | Icon                                             | Nome               | Região                 | Author  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
 | 03/10/2023 | ![Anemoculus](imagens/icon-oculis/Anemoculus.png)     |[Anemoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Anemoculus.rar)        |Mondstadt               | Gabszap |
-| 03/10/2023 | ![Geoculus](imagens/icon-oculis/Geoculus.png)         |[Geoculos](https://github.com/Gabriel4927/json-paradise/raw/main/download/Geoculus.rar)          |Liyue                   | Gabszap |
+| 03/10/2023 | ![Geoculus](imagens/icon-oculis/Geoculus.png)         |[Geoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Geoculus.rar)          |Liyue                   | Gabszap |
 | 03/10/2023 | ![Electroculus](imagens/icon-oculis/Electroculus.png) |[Electroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Electroculus.rar)      |Inazuma                 | Gabszap |
 | 03/10/2023 | ![Dendroculus](imagens/icon-oculis/Dendroculus.png)   |[Dendroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Dendroculus.rar)       |Sumeru                  | Gabszap |
 | 03/10/2023 | ![Hydroculus](imagens/icon-oculis/Hydroculus.png)     |[Hydroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Hydroculus.rar)        |Fontaine                | Gabszap | 
