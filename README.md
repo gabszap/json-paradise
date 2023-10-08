@@ -79,10 +79,15 @@ EN Ver: Em breve.
 
 | Data da adição    | Icon                                             | Nome               | Região                 |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- |
-| 07/10/2023 | ![Klee](icons/personagens/klee.png) | NOME | REGIAO
+| 07/10/2023 | ![Klee]() | NOME | REGIAO
+
+
+| 07/10/2023 | ![Klee]() | NOME | REGIAO
+
+
 
 # Mondstadt
-| Data da adição    |   Icon                                             | Nome               | Região                 | Author  |
+| Data da adição    |   Icon                                       | Nome               | Região                 | Author  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
 | 07/10/2023 | ![Cecilia](icons/especialiadades/Cecilia.webp) | [Regiao](Link) | Regiao | Gabszap
 
