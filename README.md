@@ -16,9 +16,10 @@ EN Ver: Em breve.
   - [Baixar arquivos individuais](#baixar-arquivos-individuais)
   - [Baixar diretório completo](#baixar-diretório-completo)
   - [Como procurar na pagina?](#como-procurar-na-pagina)
+  - [Como usar os tp](#como-usar-os-tps)
 - [**Exploração**](#exploração)
-  - [Oculis](#oculis) 
-
+  - [Oculis](#oculis)
+  - [Especialidades](#especialidades)
 
 
 
@@ -29,6 +30,9 @@ EN Ver: Em breve.
 > /
 
 # Baixar diretório completo
+> /
+
+# Como usar os TPs?
 > /
 
 # Como procurar na pagina?
@@ -62,5 +66,31 @@ EN Ver: Em breve.
 | 03/10/2023 | ![Chave](icons/icon-oculis/KeySigil.png)            |[Padrões de chave](https://github.com/Gabriel4927/json-paradise/raw/main/download/Padr%C3%B5es%20de%20chave.rar)[^2] | Enkanomiya             | Gabszap |
 | 03/10/2023 | ![Selo](icons/icon-oculis/SacredSeal.png)           |[Selo Sagrado](https://github.com/Gabriel4927/json-paradise/raw/main/download/Selo%20Sagrado.rar)      |Sumeru: Deserto            | Gabszap |
 
+# Especialidades
+> Especialidades estão separadas por região.
+- [Mondstadt](#mondstadt)
+- [Liyue](#liyue)
+- [Inazuma](#inazuma)
+- [Sumeru](#sumeru)
+- [Fontaine](#fontaine)
+
+## Bônus de personagem
+> Certos personagens têm Talentos que ajudam a identificar especialidades locais, indicando-os com um ícone de mão no minimapa:
+
+| Data da adição    | Icon                                             | Nome               | Região                 |
+| ---------- | ----------------------------------------------------- | --------------------- | --------------------- |
+| 07/10/2023 | ![Klee](icons/personagens/klee.png) | NOME | REGIAO
+
+# Mondstadt
+| Data da adição    |   Icon                                             | Nome               | Região                 | Author  |
+| ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
+| 07/10/2023 | ![Cecilia](icons/especialiadades/Cecilia.webp) | [Regiao](Link) | Regiao | Gabszap
+
+
+
+| 07/10/2023 | ![Item](link) | [Regiao](Link) | Regiao | Gabszap
+
+
 [^1]: Minério Lúmen é usado para upar o nivel da lanterna.
 [^2]: Já ter feito todas as missões de enkanomiya antes de ir atras dos padrões de chave. Onde usar os padrões de chave: https://youtu.be/_ES5BTwIp_M?si=IapwxOCtptDzCO-A
+
