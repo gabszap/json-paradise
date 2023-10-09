@@ -79,7 +79,7 @@ EN Ver: Em breve.
 
 | Icon                         | Nome                        | Região                | Descrição      |
 | ---------------------------------- | --------------------- | --------------------- | ---------------|
-| ![Klee](icons/personagens/klee.png) | Klee                 | Mondstadt | Mostra a localização de **especialidades de Mondstadt** próximas no mapa.
+| ![Klee](icons/personagens/klee.png) | Jobe                 | Mondstadt | Mostra a localização de **especialidades de Mondstadt** próximas no mapa.
 
 
 | 07/10/2023 | ![Klee]() | NOME | REGIAO
