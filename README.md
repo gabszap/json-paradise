@@ -77,9 +77,9 @@ EN Ver: Em breve.
 ## Bônus de personagem
 > Certos personagens têm Talentos que ajudam a identificar especialidades locais, indicando-os com um ícone de mão no minimapa:
 
-| Data da adição    | Icon                                             | Nome               | Região                 |
-| ---------- | ----------------------------------------------------- | --------------------- | --------------------- |
-| 07/10/2023 | ![Klee]() | NOME | REGIAO
+| Icon                         | Nome                        | Região                | Descrição      |
+| ---------------------------------- | --------------------- | --------------------- | ---------------|
+| ![Klee](icons/personagens/klee.png) | Jobe                 | Mondstadt | Mostra a localização de **especialidades de Mondstadt** próximas no mapa.
 
 
 | 07/10/2023 | ![Klee]() | NOME | REGIAO
