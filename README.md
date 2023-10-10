@@ -114,7 +114,7 @@ EN Ver: Em breve.
 # Inazuma
 | Data da adição    | Icon                                             | Nome               | Região                 | Author  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 09/10/2023 | ![Dendrobio](icons/especialiadades/Dendrobio.webp) | [Denrobio](Link) | Inazuma | Gabszap
+| 09/10/2023 | ![Dendrobio](icons/especialiadades/Dendrobio.webp) | [Dendrobio](Link) | Inazuma | Gabszap
 
 | 09/10/2023 | ![Item](link) | [Nome](Link) | Inazuma | Gabszap
 
