@@ -77,14 +77,16 @@ EN Ver: Em breve.
 ## Bônus de personagem
 > Certos personagens têm Talentos que ajudam a identificar especialidades locais, indicando-os com um ícone de mão no minimapa:
 
-| Icon                         | Nome                        | Região                | Descrição      |
-| ---------------------------------- | --------------------- | --------------------- | ---------------|
-| ![Klee](icons/personagens/klee.png) | Jobe                 | Mondstadt | Mostra a localização de **especialidades de Mondstadt** próximas no mapa.
-
-
-| 07/10/2023 | ![Klee]() | NOME | REGIAO
-
-
+| Icon                        | Nome                        | Região                | Descrição                 |
+| ---------------------------------- | --------------------- | --------------------- | --------------------------|
+| ![Klee](icons/personagens/klee.png) | Klee                 | Mondstadt | Mostra a localização de **especialidades de Mondstadt** próximas no mapa.
+| ![Mika](icons/personagens/mika.png) | Mika                 | Mondstadt | Mostra a localização de **especialidades de Mondstadt** próximas no mapa.
+| ![Yanfei](icons/personagens/yanfei.png) | Yanfei           | Liyue     | Mostra a localização de **especialidades de Liyue** próximas no mapa.
+| ![Qiqi](icons/personagens/qiqi.png)     | Qiqi             | Liyue     | Mostra a localização de **especialidades de Liyue** próximas no mapa.
+| ![Tigas](icons/personagens/tighnari.png) | Tighnari        | Sumeru    | Mostra a localização de **especialidades de Sumeru** próximas no mapa.
+| ![Nahida](icons/personagens/nahida.webp) | Nahida          | Sumeru    | Nahida pode usar **Esquemas Universais** para interagir com outros objetos coletáveis dentro de uma certa AdE.
+| ![Gorou](icons/personagens/gorou.png) | Gorou               | Inazuma   | Mostra a localização de **especialidades de Inazuma** próximas no mapa.
+| ![Lyney](icons/personagens/lyney.png) | Lyney              | Fontaine  | Mostra a localização de **especialidades de Fontaine** próximas no mapa.
 
 # Mondstadt
 | Data da adição    |   Icon                                       | Nome               | Região                 | Author  |
