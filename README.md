@@ -115,8 +115,29 @@ EN Ver: Em breve.
 | Data da adição    | Icon                                             | Nome               | Região                 | Author  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
 | 09/10/2023 | ![Dendrobio](icons/especialiadades/Dendrobio.webp) | [Dendrobio](Link) | Inazuma | Gabszap
+| 09/10/2023 | ![Erva Naku](icons/especialiadades/Erva_Naku.webp) | [Erva Naku](Link) | Inazuma | Gabszap
+| 09/10/2023 | ![Fruto Tenkumo](icons/especialiadades/Fruto_Tenkumo.webp) | [Fruto Tenkumo](Link) | Inazuma | Gabszap
+| 09/10/2023 | ![Fungo Fluorescente](icons/especialiadades/Fungos_Fluorescentes.webp) | [Fungos Fluorescentes](Link)| Inazuma | Gabszap
+| 09/10/2023 | ![Fungo Marítimo](icons/especialiadades/Fungos_Maritimos.webp) | [Fungos Marítimos](Link) | Inazuma | Gabszap
+| 09/10/2023 | ![Medula de Cristal](icons/especialiadades/Medula_de_Cristal.webp) | [Medula de Cristal](Link) | Inazuma | Gabszap
+| 09/10/2023 | ![Onikabuto](icons/especialiadades/Onikabuto.webp) | [Onikabuto](Link) | Inazuma | Gabszap
+| 09/10/2023 | ![Pérola Sango](icons/especialiadades/Perola_Sango.webp) | [Pérola Sango](Link) | Inazuma | Gabszap
+| 09/10/2023 | ![Pétalas da Flor de Sakura](icons/especialiadades/Petalas_da_Flor_de_Sakura.webp) | [Pétalas da Flor de Sakura](Link) | Inazuma | Gabszap
 
-| 09/10/2023 | ![Item](link) | [Nome](Link) | Inazuma | Gabszap
+# Sumeru
+| Data da adição    | Icon                                             | Nome               | Região                 | Author  |
+| ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
+| 10/10/2023 | ![Baga de espinheiro]() | [Baga de espinheiro]() | Sumeru | Gabszap
+| 10/10/2023 | ![Escaravelho dourado]() | [Escaravelho dourado]() | Sumeru | Gabszap
+| 10/10/2023 | ![Flor do luto]() | [Flor do luto]() | Sumeru | Gabszap
+| 10/10/2023 | ![Gordura de pupa de areia]() | [Gordura de pupa de areia]() | Sumeru | Gabszap
+| 10/10/2023 | ![Lotus kalpalata]() | [Lotus kalpalata]() | Sumeru | Gabszap
+| 10/10/2023 | ![Lotus nilotpala]() | [Lotus nilotpala]() | Sumeru | Gabszap
+| 10/10/2023 | ![Padirasah]() | [Padirasah]() | Sumeru | Gabszap
+
+
+
+| 10/10/2023 | ![Item](link) | [Nome](Link) | Sumeru | Gabszap
 
 
 [^1]: Minério Lúmen é usado para upar o nivel da lanterna.
