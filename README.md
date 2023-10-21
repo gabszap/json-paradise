@@ -89,62 +89,66 @@ EN Ver: Em breve.
 | ![Lyney](icons/personagens/lyney.png) | Lyney              | Fontaine  | Mostra a localização de **especialidades de Fontaine** próximas no mapa.
 
 # Mondstadt
-| Data da adição    |   Icon                                      | Nome                    | Região                 | Author  |
-| ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 07/10/2023 | ![Cecilia](icons/especialiadades/Cecilia.webp) | [Cecilia](Link) | Mondstadt | Gabszap
-| 07/10/2023 | ![Cogumelo](icons/especialiadades/Cogumelo_Philanemo.webp) | [Cogumelo Philanemo](Link) | Mondstadt | Gabszap
-| 07/10/2023 | ![Gancho](icons/especialiadades/Gancho_do_Lobo.webp) | [Gancho do Lobo](Link) | Mondstadt | Gabszap
-| 07/10/2023 | ![Lampada](icons/especialiadades/Lampada_de_Grama.webp) | [Lampada de Grama](Link) | Mondstadt | Gabszap
-| 07/10/2023 | ![Margarida](icons/especialiadades/Margaridas_Voadoras.webp) | [Margaridas Voadoras](Link) | Mondstadt | Gabszap
-| 07/10/2023 | ![Dandelion](icons/especialiadades/Sementes_de_Dandelion.webp) | [Semente de Dandelion](Link) | Mondstadt | Gabszap
-| 07/10/2023 | ![Valberry](icons/especialiadades/Valberry.webp) | [Valberry](Link) | Mondstadt | Gabszap
+
+| Data da adição | Icon                                         | Nome              | Região     | Author  |
+| --------------- | -------------------------------------------- | ------------------ | ---------- | -------- |
+| 07/10/2023      | ![Cecilia](icons/especialiadades/Cecilia.webp) | [Cecilia](download/especialiadades/Cecilia.rar) | Mondstadt | Gabszap |
+| 07/10/2023      | ![Cogumelo](icons/especialiadades/Cogumelo_Philanemo.webp) | [Cogumelo Philanemo](download/especialiadades/Cogumelo_Philanemo.rar) | Mondstadt | Gabszap |
+| 07/10/2023      | ![Gancho](icons/especialiadades/Gancho_do_Lobo.webp) | [Gancho do Lobo](download/especialiadades/Gancho_do_Lobo.rar) | Mondstadt | Gabszap |
+| 07/10/2023      | ![Lampada](icons/especialiadades/Lampada_de_Grama.webp) | [Lampada de Grama](download/especialiadades/Lampada_de_Grama.rar) | Mondstadt | Gabszap |
+| 07/10/2023      | ![Margarida](icons/especialiadades/Margaridas_Voadoras.webp) | [Margaridas Voadoras](download/especialiadades/Margaridas_Voadoras.rar) | Mondstadt | Gabszap |
+| 07/10/2023      | ![Dandelion](icons/especialiadades/Sementes_de_Dandelion.webp) | [Semente de Dandelion](download/especialiadades/Sementes_de_Dandelion.rar) | Mondstadt | Gabszap |
+| 07/10/2023      | ![Valberry](icons/especialiadades/Valberry.webp) | [Valberry](download/especialiadades/Valberry.rar) | Mondstadt | Gabszap |
 
 # Liyue
-| Data da adição    | Icon                                             | Nome               | Região                 | Author  |
-| ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 08/10/2023 | ![Concha](icons/especialiadades/Conchas_Estreladas.webp) | [Concha Estrelada](Link) | Liyue | Gabszap
-| 08/10/2023 | ![Lapis](icons/especialiadades/Cor_Lapis.webp) | [Cor Lapis](Link) | Liyue | Gabszap
-| 08/10/2023 | ![Seda](icons/especialiadades/Flor_de_Seda.webp) | [Flor de Seda](Link) | Liyue | Gabszap
-| 08/10/2023 | ![Jade](icons/especialiadades/Jade_Nocticulosa.webp) | [Jade Nocticulosa](Link) | Liyue | Gabszap
-| 08/10/2023 | ![Lirio](icons/especialiadades/Lirio_de_Vidro.webp) | [Lirio de Vidro](Link) | Liyue | Gabszap
-| 08/10/2023 | ![Pimenta](icons/especialiadades/Pimenta_de_Jueyun.webp) | [Pimenta de Jueyun](Link) | Liyue | Gabszap
-| 08/10/2023 | ![Qingxin](icons/especialiadades/Qingxin.webp) | [Qingxin](Link) | Liyue | Gabszap
-| 08/10/2023 | ![Violeta](icons/especialiadades/Violeta.webp) | [Violeta](Link) | Liyue | Gabszap
+
+| Data da adição | Icon                                         | Nome              | Região   | Author  |
+| --------------- | -------------------------------------------- | ------------------ | -------- | -------- |
+| 08/10/2023      | ![Concha](icons/especialiadades/Conchas_Estreladas.webp) | [Concha Estrelada](download/especialiadades/Conchas_Estreladas.rar) | Liyue | Gabszap |
+| 08/10/2023      | ![Lapis](icons/especialiadades/Cor_Lapis.webp) | [Cor Lapis](download/especialiadades/Cor_Lapis.rar) | Liyue | Gabszap |
+| 08/10/2023      | ![Seda](icons/especialiadades/Flor_de_Seda.webp) | [Flor de Seda](download/especialiadades/Flor_de_Seda.rar) | Liyue | Gabszap |
+| 08/10/2023      | ![Jade](icons/especialiadades/Jade_Nocticulosa.webp) | [Jade Nocticulosa](download/especialiadades/Jade_Nocticulosa.rar) | Liyue | Gabszap |
+| 08/10/2023      | ![Lirio](icons/especialiadades/Lirio_de_Vidro.webp) | [Lirio de Vidro](download/especialiadades/Lirio_de_Vidro.rar) | Liyue | Gabszap |
+| 08/10/2023      | ![Pimenta](icons/especialiadades/Pimenta_de_Jueyun.webp) | [Pimenta de Jueyun](download/especialiadades/Pimenta_de_Jueyun.rar) | Liyue | Gabszap |
+| 08/10/2023      | ![Qingxin](icons/especialiadades/Qingxin.webp) | [Qingxin](download/especialiadades/Qingxin.rar) | Liyue | Gabszap |
+| 08/10/2023      | ![Violeta](icons/especialiadades/Violeta.webp) | [Violeta](download/especialiadades/Violeta.rar) | Liyue | Gabszap |
 
 # Inazuma
-| Data da adição    | Icon                                             | Nome               | Região                 | Author  |
-| ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 09/10/2023 | ![Dendrobio](icons/especialiadades/Dendrobio.webp) | [Dendrobio](Link) | Inazuma | Gabszap
-| 09/10/2023 | ![Erva Naku](icons/especialiadades/Erva_Naku.webp) | [Erva Naku](Link) | Inazuma | Gabszap
-| 09/10/2023 | ![Fruto Tenkumo](icons/especialiadades/Fruto_Tenkumo.webp) | [Fruto Tenkumo](Link) | Inazuma | Gabszap
-| 09/10/2023 | ![Fungo Fluorescente](icons/especialiadades/Fungos_Fluorescentes.webp) | [Fungos Fluorescentes](Link)| Inazuma | Gabszap
-| 09/10/2023 | ![Fungo Marítimo](icons/especialiadades/Fungos_Maritimos.webp) | [Fungos Marítimos](Link) | Inazuma | Gabszap
-| 09/10/2023 | ![Medula de Cristal](icons/especialiadades/Medula_de_Cristal.webp) | [Medula de Cristal](Link) | Inazuma | Gabszap
-| 09/10/2023 | ![Onikabuto](icons/especialiadades/Onikabuto.webp) | [Onikabuto](Link) | Inazuma | Gabszap
-| 09/10/2023 | ![Pérola Sango](icons/especialiadades/Perola_Sango.webp) | [Pérola Sango](Link) | Inazuma | Gabszap
-| 09/10/2023 | ![Pétalas da Flor de Sakura](icons/especialiadades/Petalas_da_Flor_de_Sakura.webp) | [Pétalas da Flor de Sakura](Link) | Inazuma | Gabszap
+
+| Data da adição | Icon                                         | Nome              | Região    | Author  |
+| --------------- | -------------------------------------------- | ------------------ | --------- | -------- |
+| 09/10/2023      | ![Dendrobio](icons/especialiadades/Dendrobio.webp) | [Dendrobio](download/especialiadades/Dendrobio.rar) | Inazuma | Gabszap |
+| 09/10/2023      | ![Erva Naku](icons/especialiadades/Erva_Naku.webp) | [Erva Naku](download/especialiadades/Erva_Naku.rar) | Inazuma | Gabszap |
+| 09/10/2023      | ![Fruto Tenkumo](icons/especialiadades/Fruto_Tenkumo.webp) | [Fruto Tenkumo](download/especialiadades/Fruto_Tenkumo.rar) | Inazuma | Gabszap |
+| 09/10/2023      | ![Fungo Fluorescente](icons/especialiadades/Fungos_Fluorescentes.webp) | [Fungos Fluorescentes](download/especialiadades/Fungos_Fluorescentes.rar) | Inazuma | Gabszap |
+| 09/10/2023      | ![Fungo Marítimo](icons/especialiadades/Fungos_Maritimos.webp) | [Fungos Marítimos](download/especialiadades/Fungos_Maritimos.rar) | Inazuma | Gabszap |
+| 09/10/2023      | ![Medula de Cristal](icons/especialiadades/Medula_de_Cristal.webp) | [Medula de Cristal](download/especialiadades/Medula_de_Cristal.rar) | Inazuma | Gabszap |
+| 09/10/2023      | ![Onikabuto](icons/especialiadades/Onikabuto.webp) | [Onikabuto](download/especialiadades/Onikabuto.rar) | Inazuma | Gabszap |
+| 09/10/2023      | ![Pérola Sango](icons/especialiadades/Perola_Sango.webp) | [Pérola Sango](download/especialiadades/Perola_Sango.rar) | Inazuma | Gabszap |
+| 09/10/2023      | ![Pétalas da Flor de Sakura](icons/especialiadades/Petalas_da_Flor_de_Sakura.webp) | [Pétalas da Flor de Sakura](download/especialiadades/Petalas_da_Flor_de_Sakura.rar) | Inazuma | Gabszap |
 
 # Sumeru
-| Data da adição    | Icon                                             | Nome               | Região                 | Author  |
-| ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 10/10/2023 | ![Baga de espinheiro](icons/especialiadades/Baga_de_Espinheiro.webp) | [Baga de espinheiro]() | Sumeru | Gabszap
-| 10/10/2023 | ![Escaravelho dourado](icons/especialiadades/Escaravelho_Dourado.webp) | [Escaravelho dourado]() | Sumeru | Gabszap
-| 10/10/2023 | ![Flor do luto](icons/especialiadades/Flor_do_Luto.webp) | [Flor do luto]() | Sumeru | Gabszap
-| 10/10/2023 | ![Gordura de pupa de areia](icons/especialiadades/Gordura_de_Pupa_de_Areia.webp) | [Gordura de pupa de areia]() | Sumeru | Gabszap
-| 10/10/2023 | ![Lotus kalpalata](icons/especialiadades/Lotus_Kalpalata.webp) | [Lotus kalpalata]() | Sumeru | Gabszap
-| 10/10/2023 | ![Lotus nilotpala](icons/especialiadades/Lotus_Nilotpala.webp) | [Lotus nilotpala]() | Sumeru | Gabszap
-| 10/10/2023 | ![Padirasah](icons/especialiadades/Padisarah.webp) | [Padirasah]() | Sumeru | Gabszap
+
+| Data da adição | Icon                                         | Nome              | Região  | Author  |
+| --------------- | -------------------------------------------- | ------------------ | ------- | -------- |
+| 10/10/2023      | ![Baga de espinheiro](icons/especialiadades/Baga_de_Espinheiro.webp) | [Baga de espinheiro](download/especialiadades/Baga_de_Espinheiro.rar) | Sumeru | Gabszap |
+| 10/10/2023      | ![Escaravelho dourado](icons/especialiadades/Escaravelho_Dourado.webp) | [Escaravelho dourado](download/especialiadades/Escaravelho_Dourado.rar) | Sumeru | Gabszap |
+| 10/10/2023      | ![Flor do luto](icons/especialiadades/Flor_do_Luto.webp) | [Flor do luto](download/especialiadades/Flor_do_Luto.rar) | Sumeru | Gabszap |
+| 10/10/2023      | ![Gordura de pupa de areia](icons/especialiadades/Gordura_de_Pupa_de_Areia.webp) | [Gordura de pupa de areia](download/especialiadades/Gordura_de_Pupa_de_Areia.rar) | Sumeru | Gabszap |
+| 10/10/2023      | ![Lotus kalpalata](icons/especialiadades/Lotus_Kalpalata.webp) | [Lotus kalpalata](download/especialiadades/Lotus_Kalpalata.rar) | Sumeru | Gabszap |
+| 10/10/2023      | ![Lotus nilotpala](icons/especialiadades/Lotus_Nilotpala.webp) | [Lotus nilotpala](download/especialiadades/Lotus_Nilotpala.rar) | Sumeru | Gabszap |
+| 10/10/2023      | ![Padirasah](icons/especialiadades/Padisarah.webp) | [Padirasah](download/especialiadades/Padisarah.rar) | Sumeru | Gabszap |
 
 # Fontaine
 > Atualmente só tem essas especialidades.
 
-| Data da adição    | Icon                                             | Nome               | Região                 | Author  |
-| ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 11/10/2023 | ![Flor](icons/especialiadades/Romaritime_Flower.webp) | [Flor Rociomarinha]() | Fontaine | Gabszap
-| 11/10/2023 | ![Lumidoce](icons/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce]() | Fontaine | Gabszap
-| 11/10/2023 | ![Rosa](icons/especialiadades/Rainbow_Rose.webp) | [Rosa Arco-Iris]() | Fontaine | Gabszap
-| 11/10/2023 | ![Lumitoile](icons/especialiadades/Lumitoile.webp) | [Lumitoile]() | Fontaine | Gabszap
-| 11/10/2023 | ![unidade](icons/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção]() | Fontaine | Gabszap
+| Data da adição | Icon                                         | Nome              | Região   | Author  |
+| --------------- | -------------------------------------------- | ------------------ | -------- | -------- |
+| 11/10/2023      | ![Flor](icons/especialiadades/Romaritime_Flower.webp) | [Flor Rociomarinha](download/especialiadades/Romaritime_Flower.rar) | Fontaine | Gabszap |
+| 11/10/2023      | ![Lumidoce](icons/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce](download/especialiadades/LUmidouce_Bell.rar) | Fontaine | Gabszap |
+| 11/10/2023      | ![Rosa](icons/especialiadades/Rainbow_Rose.webp) | [Rosa Arco-Iris](download/especialiadades/Rainbow_Rose.rar) | Fontaine | Gabszap |
+| 11/10/2023      | ![Lumitoile](icons/especialiadades/Lumitoile.webp) | [Lumitoile](download/especialiadades/Lumitoile.rar) | Fontaine | Gabszap |
+| 11/10/2023      | ![unidade](icons/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção](https://github.com/Gabriel4927/json-paradise/blob/main/download/Especialidades/Unidade%20de%20Subdetec%C3%A7%C3%A3o.rar) | Fontaine | Gabszap |
 
 [^1]: Minério Lúmen é usado para upar o nivel da lanterna.
 [^2]: Já ter feito todas as missões de enkanomiya antes de ir atras dos padrões de chave. Onde usar os padrões de chave: https://youtu.be/_ES5BTwIp_M?si=IapwxOCtptDzCO-A
