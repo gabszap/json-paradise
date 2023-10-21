@@ -127,24 +127,24 @@ EN Ver: Em breve.
 # Sumeru
 | Data da adição    | Icon                                             | Nome               | Região                 | Author  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 10/10/2023 | ![Baga de espinheiro](icons/especialiadades/Baga_de_Espinheiro.webp) | [Baga de espinheiro]() | Sumeru | Gabszap
-| 10/10/2023 | ![Escaravelho dourado](icons/especialiadades/Escaravelho_Dourado.webp) | [Escaravelho dourado]() | Sumeru | Gabszap
-| 10/10/2023 | ![Flor do luto](icons/especialiadades/Flor_do_Luto.webp) | [Flor do luto]() | Sumeru | Gabszap
-| 10/10/2023 | ![Gordura de pupa de areia](icons/especialiadades/Gordura_de_Pupa_de_Areia.webp) | [Gordura de pupa de areia]() | Sumeru | Gabszap
-| 10/10/2023 | ![Lotus kalpalata](icons/especialiadades/Lotus_Kalpalata.webp) | [Lotus kalpalata]() | Sumeru | Gabszap
-| 10/10/2023 | ![Lotus nilotpala](icons/especialiadades/Lotus_Nilotpala.webp) | [Lotus nilotpala]() | Sumeru | Gabszap
-| 10/10/2023 | ![Padirasah](icons/especialiadades/Padisarah.webp) | [Padirasah]() | Sumeru | Gabszap
+| 10/10/2023 | ![Baga de espinheiro](icons/especialiadades/Baga_de_Espinheiro.webp) | [Baga de espinheiro](Link) | Sumeru | Gabszap
+| 10/10/2023 | ![Escaravelho dourado](icons/especialiadades/Escaravelho_Dourado.webp) | [Escaravelho dourado](Link) | Sumeru | Gabszap
+| 10/10/2023 | ![Flor do luto](icons/especialiadades/Flor_do_Luto.webp) | [Flor do luto](Link) | Sumeru | Gabszap
+| 10/10/2023 | ![Gordura de pupa de areia](icons/especialiadades/Gordura_de_Pupa_de_Areia.webp) | [Gordura de pupa de areia](Link) | Sumeru | Gabszap
+| 10/10/2023 | ![Lotus kalpalata](icons/especialiadades/Lotus_Kalpalata.webp) | [Lotus kalpalata](Link) | Sumeru | Gabszap
+| 10/10/2023 | ![Lotus nilotpala](icons/especialiadades/Lotus_Nilotpala.webp) | [Lotus nilotpala](Link) | Sumeru | Gabszap
+| 10/10/2023 | ![Padirasah](icons/especialiadades/Padisarah.webp) | [Padirasah](Link) | Sumeru | Gabszap
 
 # Fontaine
 > Atualmente só tem essas especialidades.
 
 | Data da adição    | Icon                                             | Nome               | Região                 | Author  |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
-| 11/10/2023 | ![Flor](icons/especialiadades/Romaritime_Flower.webp) | [Flor Rociomarinha]() | Fontaine | Gabszap
-| 11/10/2023 | ![Lumidoce](icons/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce]() | Fontaine | Gabszap
-| 11/10/2023 | ![Rosa](icons/especialiadades/Rainbow_Rose.webp) | [Rosa Arco-Iris]() | Fontaine | Gabszap
-| 11/10/2023 | ![Lumitoile](icons/especialiadades/Lumitoile.webp) | [Lumitoile]() | Fontaine | Gabszap
-| 11/10/2023 | ![unidade](icons/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção]() | Fontaine | Gabszap
+| 11/10/2023 | ![Flor](icons/especialiadades/Romaritime_Flower.webp) | [Flor Rociomarinha](Link) | Fontaine | Gabszap
+| 11/10/2023 | ![Lumidoce](icons/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce](Link) | Fontaine | Gabszap
+| 11/10/2023 | ![Rosa](icons/especialiadades/Rainbow_Rose.webp) | [Rosa Arco-Iris](Link) | Fontaine | Gabszap
+| 11/10/2023 | ![Lumitoile](icons/especialiadades/Lumitoile.webp) | [Lumitoile](Link) | Fontaine | Gabszap
+| 11/10/2023 | ![unidade](icons/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção](Link) | Fontaine | Gabszap
 
 [^1]: Minério Lúmen é usado para upar o nivel da lanterna.
 [^2]: Já ter feito todas as missões de enkanomiya antes de ir atras dos padrões de chave. Onde usar os padrões de chave: https://youtu.be/_ES5BTwIp_M?si=IapwxOCtptDzCO-A
