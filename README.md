@@ -145,7 +145,7 @@ EN Ver: Em breve.
 | Data da adição | Icon                                         | Nome              | Região   | Author  |
 | --------------- | -------------------------------------------- | ------------------ | -------- | -------- |
 | 11/10/2023      | ![Flor](icons/especialiadades/Romaritime_Flower.webp) | [Flor Rociomarinha](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_Rociomarinha.rar) | Fontaine | Gabszap |
-| 11/10/2023      | ![Lumidoce](icons/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Canapula_Lumidouce.rar) | Fontaine | Gabszap |
+| 11/10/2023      | ![Lumidoce](icons/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce](https://github.com/Gabriel4927/json-paradise/blob/main/download/Especialidades/Campanula_Lumidouce.rar) | Fontaine | Gabszap |
 | 11/10/2023      | ![Rosa](icons/especialiadades/Rainbow_Rose.webp) | [Rosa Arco-Iris](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Rosa_ArcoIris.rar) | Fontaine | Gabszap |
 | 11/10/2023      | ![Lumitoile](icons/especialiadades/Lumitoile.webp) | [Lumitoile](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lumitoile.rar) | Fontaine | Gabszap |
 | 11/10/2023      | ![unidade](icons/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção](https://github.com/Gabriel4927/json-paradise/blob/main/download/Especialidades/Unidade_de_Subdetecção.rar) | Fontaine | Gabszap |
