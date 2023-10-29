@@ -90,14 +90,14 @@ EN Ver: Em breve.
 
 # Mondstadt
 
-| Data da adição | Icon                                         | Nome              | Região     | Author  |
+| Data da adição | Icon                                         | Nome              | Região     | Author  |g
 | --------------- | -------------------------------------------- | ------------------ | ---------- | -------- |
 | 07/10/2023      | ![Cecilia](icons/especialiadades/Cecilia.webp) | [Cecilia](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cecillia.rar) | Mondstadt | Gabszap |
 | 07/10/2023      | ![Cogumelo](icons/especialiadades/Cogumelo_Philanemo.webp) | [Cogumelo Philanemo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cogumelo_Philanemo.rar) | Mondstadt | Gabszap |
-| 07/10/2023      | ![Gancho](icons/especialiadades/Gancho_do_Lobo.webp) | [Gancho do Lobo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Gancho_do_Lobo.rar) | Mondstadt | Gabszap |
-| 07/10/2023      | ![Lampada](icons/especialiadades/Lampada_de_Grama.webp) | [Lampada de Grama](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lampada_de_Grama.rar) | Mondstadt | Gabszap |
+| 07/10/2023      | ![Gancho](icons/especialiadades/Gancho_do_Lobo.webp) | [Gancho do Lobo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Gancho_do_lobo.rar) | Mondstadt | Gabszap |
+| 07/10/2023      | ![Lampada](icons/especialiadades/Lampada_de_Grama.webp) | [Lampada de Grama](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lampada_de_grama.rar) | Mondstadt | Gabszap |
 | 07/10/2023      | ![Margarida](icons/especialiadades/Margaridas_Voadoras.webp) | [Margaridas Voadoras](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Margaridas_Voadoras.rar) | Mondstadt | Gabszap |
-| 07/10/2023      | ![Dandelion](icons/especialiadades/Sementes_de_Dandelion.webp) | [Semente de Dandelion](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Sementes_de_Dandelion.rar) | Mondstadt | Gabszap |
+| 07/10/2023      | ![Dandelion](icons/especialiadades/Sementes_de_Dandelion.webp) | [Semente de Dandelion](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Sementes_de_dandelion.rar) | Mondstadt | Gabszap |
 | 07/10/2023      | ![Valberry](icons/especialiadades/Valberry.webp) | [Valberry](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Valberry.rar) | Mondstadt | Gabszap |
 
 # Liyue
