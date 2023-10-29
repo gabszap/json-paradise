@@ -104,9 +104,9 @@ EN Ver: Em breve.
 
 | Data da adição | Icon                                         | Nome              | Região   | Author  |
 | --------------- | -------------------------------------------- | ------------------ | -------- | -------- |
-| 08/10/2023      | ![Concha](icons/especialiadades/Conchas_Estreladas.webp) | [Concha Estrelada](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Conchas_Estreladas.rar) | Liyue | Gabszap |
+| 08/10/2023      | ![Concha](icons/especialiadades/Conchas_Estreladas.webp) | [Concha Estrelada](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Concha_Estrelada.rar) | Liyue | Gabszap |
 | 08/10/2023      | ![Lapis](icons/especialiadades/Cor_Lapis.webp) | [Cor Lapis](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/CorLapis.rar) | Liyue | Gabszap |
-| 08/10/2023      | ![Seda](icons/especialiadades/Flor_de_Seda.webp) | [Flor de Seda](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_de_Seda.rar) | Liyue | Gabszap |
+| 08/10/2023      | ![Seda](icons/especialiadades/Flor_de_Seda.webp) | [Flor de Seda](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_de_seda.rar) | Liyue | Gabszap |
 | 08/10/2023      | ![Jade](icons/especialiadades/Jade_Nocticulosa.webp) | [Jade Nocticulosa](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Jade_Nocticulosa.rar) | Liyue | Gabszap |
 | 08/10/2023      | ![Lirio](icons/especialiadades/Lirio_de_Vidro.webp) | [Lirio de Vidro](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lirio_de_Vidro.rar) | Liyue | Gabszap |
 | 08/10/2023      | ![Pimenta](icons/especialiadades/Pimenta_de_Jueyun.webp) | [Pimenta de Jueyun](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Pimenta_de_Jueyun.rar) | Liyue | Gabszap |
@@ -121,7 +121,7 @@ EN Ver: Em breve.
 | 09/10/2023      | ![Erva Naku](icons/especialiadades/Erva_Naku.webp) | [Erva Naku](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Erva_Naku.rar) | Inazuma | Gabszap |
 | 09/10/2023      | ![Fruto Tenkumo](icons/especialiadades/Fruto_Tenkumo.webp) | [Fruto Tenkumo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fruto_Tenkumo.rar) | Inazuma | Gabszap |
 | 09/10/2023      | ![Fungo Fluorescente](icons/especialiadades/Fungos_Fluorescentes.webp) | [Fungos Fluorescentes](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fungo_Fluorescente.rar) | Inazuma | Gabszap |
-| 09/10/2023      | ![Fungo Marítimo](icons/especialiadades/Fungos_Maritimos.webp) | [Fungos Marítimos](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fungos_Maritimos.rar) | Inazuma | Gabszap |
+| 09/10/2023      | ![Fungo Marítimo](icons/especialiadades/Fungos_Maritimos.webp) | [Fungos Marítimos](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fungo_Maritimo.rar) | Inazuma | Gabszap |
 | 09/10/2023      | ![Medula de Cristal](icons/especialiadades/Medula_de_Cristal.webp) | [Medula de Cristal](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Medula_de_Cristal.rar) | Inazuma | Gabszap |
 | 09/10/2023      | ![Onikabuto](icons/especialiadades/Onikabuto.webp) | [Onikabuto](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Onikabuto.rar) | Inazuma | Gabszap |
 | 09/10/2023      | ![Pérola Sango](icons/especialiadades/Perola_Sango.webp) | [Pérola Sango](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Perola_Sango.rar) | Inazuma | Gabszap |
@@ -134,7 +134,7 @@ EN Ver: Em breve.
 | 10/10/2023      | ![Baga de espinheiro](icons/especialiadades/Baga_de_Espinheiro.webp) | [Baga de espinheiro](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Baga_de_Espinheiro.rar) | Sumeru | Gabszap |
 | 10/10/2023      | ![Escaravelho dourado](icons/especialiadades/Escaravelho_Dourado.webp) | [Escaravelho dourado](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Escaravelho.rar) | Sumeru | Gabszap |
 | 10/10/2023      | ![Flor do luto](icons/especialiadades/Flor_do_Luto.webp) | [Flor do luto](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_do_Luto.rar) | Sumeru | Gabszap |
-| 10/10/2023      | ![Gordura de pupa de areia](icons/especialiadades/Gordura_de_Pupa_de_Areia.webp) | [Gordura de pupa de areia](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Gordura_de_Pupa_de_Areia.rar) | Sumeru | Gabszap |
+| 10/10/2023      | ![Gordura de pupa de areia](icons/especialiadades/Gordura_de_Pupa_de_Areia.webp) | [Gordura de pupa de areia](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Gordura_de_pupa_de_areia.rar) | Sumeru | Gabszap |
 | 10/10/2023      | ![Lotus kalpalata](icons/especialiadades/Lotus_Kalpalata.webp) | [Lotus kalpalata](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lotus_Kalpalata.rar) | Sumeru | Gabszap |
 | 10/10/2023      | ![Lotus nilotpala](icons/especialiadades/Lotus_Nilotpala.webp) | [Lotus nilotpala](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lotus_Nilotpala.rar) | Sumeru | Gabszap |
 | 10/10/2023      | ![Padirasah](icons/especialiadades/Padisarah.webp) | [Padirasah](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Padisarah.rar) | Sumeru | Gabszap |
@@ -144,11 +144,11 @@ EN Ver: Em breve.
 
 | Data da adição | Icon                                         | Nome              | Região   | Author  |
 | --------------- | -------------------------------------------- | ------------------ | -------- | -------- |
-| 11/10/2023      | ![Flor](icons/especialiadades/Romaritime_Flower.webp) | [Flor Rociomarinha](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Romaritime_Flower.rar) | Fontaine | Gabszap |
-| 11/10/2023      | ![Lumidoce](icons/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Canapula_Lumidouce.rar) | Fontaine | Gabszap |
+| 11/10/2023      | ![Flor](icons/especialiadades/Romaritime_Flower.webp) | [Flor Rociomarinha](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_Rociomarinha.rar) | Fontaine | Gabszap |
+| 11/10/2023      | ![Lumidoce](icons/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Campanula_Lumidouce.rar) | Fontaine | Gabszap |
 | 11/10/2023      | ![Rosa](icons/especialiadades/Rainbow_Rose.webp) | [Rosa Arco-Iris](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Rosa_ArcoIris.rar) | Fontaine | Gabszap |
 | 11/10/2023      | ![Lumitoile](icons/especialiadades/Lumitoile.webp) | [Lumitoile](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lumitoile.rar) | Fontaine | Gabszap |
-| 11/10/2023      | ![unidade](icons/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção](https://github.com/Gabriel4927/json-paradise/blob/main/download/Especialidades/Unidade%20de%20Subdetec%C3%A7%C3%A3o.rar) | Fontaine | Gabszap |
+| 11/10/2023      | ![unidade](icons/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Unidade_de_Subdetecção.rar) | Fontaine | Gabszap |
 
 [^1]: Minério Lúmen é usado para upar o nivel da lanterna.
 [^2]: Já ter feito todas as missões de enkanomiya antes de ir atras dos padrões de chave. Onde usar os padrões de chave: https://youtu.be/_ES5BTwIp_M?si=IapwxOCtptDzCO-A
