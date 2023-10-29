@@ -90,7 +90,7 @@ EN Ver: Em breve.
 
 # Mondstadt
 
-| Data da adição | Icon                                         | Nome              | Região     | Author  |g
+| Data da adição | Icon                                         | Nome              | Região     | Author  |
 | --------------- | -------------------------------------------- | ------------------ | ---------- | -------- |
 | 07/10/2023      | ![Cecilia](icons/especialiadades/Cecilia.webp) | [Cecilia](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cecillia.rar) | Mondstadt | Gabszap |
 | 07/10/2023      | ![Cogumelo](icons/especialiadades/Cogumelo_Philanemo.webp) | [Cogumelo Philanemo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cogumelo_Philanemo.rar) | Mondstadt | Gabszap |
