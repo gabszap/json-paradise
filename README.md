@@ -104,9 +104,9 @@ EN Ver: Em breve.
 
 | Data da adição | Icon                                         | Nome              | Região   | Author  |
 | --------------- | -------------------------------------------- | ------------------ | -------- | -------- |
-| 08/10/2023      | ![Concha](icons/especialiadades/Conchas_Estreladas.webp) | [Concha Estrelada](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Concha_Estreladas.rar) | Liyue | Gabszap |
+| 08/10/2023      | ![Concha](icons/especialiadades/Conchas_Estreladas.webp) | [Concha Estrelada](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Concha_Estrelada.rar) | Liyue | Gabszap |
 | 08/10/2023      | ![Lapis](icons/especialiadades/Cor_Lapis.webp) | [Cor Lapis](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/CorLapis.rar) | Liyue | Gabszap |
-| 08/10/2023      | ![Seda](icons/especialiadades/Flor_de_Seda.webp) | [Flor de Seda](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_de_Seda.rar) | Liyue | Gabszap |
+| 08/10/2023      | ![Seda](icons/especialiadades/Flor_de_Seda.webp) | [Flor de Seda](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_de_seda.rar) | Liyue | Gabszap |
 | 08/10/2023      | ![Jade](icons/especialiadades/Jade_Nocticulosa.webp) | [Jade Nocticulosa](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Jade_Nocticulosa.rar) | Liyue | Gabszap |
 | 08/10/2023      | ![Lirio](icons/especialiadades/Lirio_de_Vidro.webp) | [Lirio de Vidro](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lirio_de_Vidro.rar) | Liyue | Gabszap |
 | 08/10/2023      | ![Pimenta](icons/especialiadades/Pimenta_de_Jueyun.webp) | [Pimenta de Jueyun](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Pimenta_de_Jueyun.rar) | Liyue | Gabszap |
