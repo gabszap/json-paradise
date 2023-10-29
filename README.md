@@ -121,7 +121,7 @@ EN Ver: Em breve.
 | 09/10/2023      | ![Erva Naku](icons/especialiadades/Erva_Naku.webp) | [Erva Naku](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Erva_Naku.rar) | Inazuma | Gabszap |
 | 09/10/2023      | ![Fruto Tenkumo](icons/especialiadades/Fruto_Tenkumo.webp) | [Fruto Tenkumo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fruto_Tenkumo.rar) | Inazuma | Gabszap |
 | 09/10/2023      | ![Fungo Fluorescente](icons/especialiadades/Fungos_Fluorescentes.webp) | [Fungos Fluorescentes](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fungo_Fluorescente.rar) | Inazuma | Gabszap |
-| 09/10/2023      | ![Fungo Marítimo](icons/especialiadades/Fungos_Maritimos.webp) | [Fungos Marítimos](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fungos_Maritimos.rar) | Inazuma | Gabszap |
+| 09/10/2023      | ![Fungo Marítimo](icons/especialiadades/Fungos_Maritimos.webp) | [Fungos Marítimos](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fungo_Maritimo.rar) | Inazuma | Gabszap |
 | 09/10/2023      | ![Medula de Cristal](icons/especialiadades/Medula_de_Cristal.webp) | [Medula de Cristal](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Medula_de_Cristal.rar) | Inazuma | Gabszap |
 | 09/10/2023      | ![Onikabuto](icons/especialiadades/Onikabuto.webp) | [Onikabuto](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Onikabuto.rar) | Inazuma | Gabszap |
 | 09/10/2023      | ![Pérola Sango](icons/especialiadades/Perola_Sango.webp) | [Pérola Sango](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Perola_Sango.rar) | Inazuma | Gabszap |
