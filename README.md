@@ -148,7 +148,7 @@ EN Ver: Em breve.
 | 11/10/2023      | ![Lumidoce](icons/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Campanula_Lumidouce.rar) | Fontaine | Gabszap |
 | 11/10/2023      | ![Rosa](icons/especialiadades/Rainbow_Rose.webp) | [Rosa Arco-Iris](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Rosa_ArcoIris.rar) | Fontaine | Gabszap |
 | 11/10/2023      | ![Lumitoile](icons/especialiadades/Lumitoile.webp) | [Lumitoile](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lumitoile.rar) | Fontaine | Gabszap |
-| 11/10/2023      | ![unidade](icons/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção](https://github.com/Gabriel4927/json-paradise/blob/main/download/Especialidades/Unidade_de_Subdetecção.rar) | Fontaine | Gabszap |
+| 11/10/2023      | ![unidade](icons/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Unidade_de_Subdetecção.rar) | Fontaine | Gabszap |
 
 [^1]: Minério Lúmen é usado para upar o nivel da lanterna.
 [^2]: Já ter feito todas as missões de enkanomiya antes de ir atras dos padrões de chave. Onde usar os padrões de chave: https://youtu.be/_ES5BTwIp_M?si=IapwxOCtptDzCO-A
