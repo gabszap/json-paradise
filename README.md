@@ -19,6 +19,10 @@ EN Ver: Em breve.
   - [Como procurar na pagina?](#como-procurar-na-pagina)
   - [Como usar os tp](#como-usar-os-tps)
 - [**Exploração**](#exploração)
+  - texto
+  - texto
+  - texto
+- [**Farming**](#farming)
   - [Oculis](#oculis)
   - [Especialidades](#especialidades)
 
@@ -43,6 +47,10 @@ EN Ver: Em breve.
 > Por exemplo, pesquise “doce” ou “flor” em vez de “flor-doce”.
 
 # Exploração
+----
+inserir texto
+
+# Farming
 -----
 ## Oculis
 > NOTAS:
